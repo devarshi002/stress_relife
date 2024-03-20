@@ -20,7 +20,9 @@ This project is a simple webpage designed to provide stress relief through posit
 - CSS
 - JavaScript
 
-## video
+## screenshot
+![stressre1](https://github.com/devarshi002/stress_relife/assets/124704583/1bae1efc-cfbc-4a29-871b-6316bdd7c029)
+
 
 
 ## Acknowledgements
