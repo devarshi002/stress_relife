@@ -6,7 +6,7 @@ This project is a simple webpage designed to provide stress relief through posit
 
 - Input box for entering text
 - Automatic display of positive messages
-- Star animation for visual effect
+- Special animation for visual effect
 
 ## How to Use
 
